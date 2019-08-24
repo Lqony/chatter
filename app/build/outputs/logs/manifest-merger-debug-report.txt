@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Beniamin\.android\build-cache\bb4635153c7048d5b98f5abf6fc4b142386e8448\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Beniamin\.android\build-cache\16988b88327aa51470cd396feb6bf0b786aee898\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Beniamin\.android\build-cache\4844a3532455010c7aba183e85a29e145c6dff68\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Beniamin\.android\build-cache\87f0747ce1049b1f9d161e02596022bef3661460\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Beniamin\.android\build-cache\4085d84ffeb8ae65e5a11cc26616822b09003082\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:11:9-40
+activity#pl.messenger.benq.benqmessenger.MainActivity
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:16:27-74
+activity#pl.messenger.benq.benqmessenger.ServerActivity1
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:19:19-50
+activity#pl.messenger.benq.benqmessenger.ClientActivity1
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:20:9-62
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:20:19-50
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:23:5-95
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:24:5-92
+	android:name
+		ADDED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml:24:22-73
+uses-sdk
+INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Beniamin\.android\build-cache\bb4635153c7048d5b98f5abf6fc4b142386e8448\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Beniamin\.android\build-cache\16988b88327aa51470cd396feb6bf0b786aee898\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Beniamin\.android\build-cache\4844a3532455010c7aba183e85a29e145c6dff68\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Beniamin\.android\build-cache\87f0747ce1049b1f9d161e02596022bef3661460\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Beniamin\.android\build-cache\4085d84ffeb8ae65e5a11cc26616822b09003082\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Beniamin\.android\build-cache\bb4635153c7048d5b98f5abf6fc4b142386e8448\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudio\Projects\BenqMessenger\app\src\main\AndroidManifest.xml

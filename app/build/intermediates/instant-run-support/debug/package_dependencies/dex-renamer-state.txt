@@ -1,0 +1,25 @@
+#Thu Aug 31 12:26:26 CEST 2017
+renamed.7=classes4.dex
+renamed.6=classes3.dex
+renamed.5=classes8.dex
+renamed.4=classes5.dex
+renamed.3=classes2.dex
+renamed.2=classes7.dex
+renamed.1=classes.dex
+renamed.0=classes6.dex
+base.7=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ca82235897c7921bafd406a0f7bdface450b6125
+base.6=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c94011fa682e51b1c45718fbaa775273cfd33c44
+base.5=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_2c8775405cc95c07c17ee743cb1c0609a572dba5
+base.4=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d465dd3d83c3a563d64820535ab62e71207b08d7
+base.3=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be538866d8259db9cf28cadc8f9af44e49bf6385
+base.2=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_0f8bbc83f848af1102f43c7a5ef81650fd0d3265
+base.1=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_22147f3eceed14da04b0d913996fbc5507eddd79
+base.0=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_af95d2ec0b730b6b65eaaf9e729d7b4576481c94
+file.7=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ca82235897c7921bafd406a0f7bdface450b6125\\classes.dex
+file.6=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c94011fa682e51b1c45718fbaa775273cfd33c44\\classes.dex
+file.5=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_2c8775405cc95c07c17ee743cb1c0609a572dba5\\classes.dex
+file.4=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d465dd3d83c3a563d64820535ab62e71207b08d7\\classes.dex
+file.3=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be538866d8259db9cf28cadc8f9af44e49bf6385\\classes.dex
+file.2=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_0f8bbc83f848af1102f43c7a5ef81650fd0d3265\\classes.dex
+file.1=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_22147f3eceed14da04b0d913996fbc5507eddd79\\classes.dex
+file.0=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_af95d2ec0b730b6b65eaaf9e729d7b4576481c94\\classes.dex

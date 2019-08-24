@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BenqMessenger</string>
+    <string name="buttonserver">Server</string>
+    <string name="buttonclient">client</string>
+    <string name="Looking_for_free_port">Looking for free port</string>
+    <string name="You_are_not_connected_to_WIFI">You are not connected to WIFI</string>
+    <string name="Port">Port:</string>
+    <string name="IP_Address">IP Address:</string>
+    <string name="Connect">Connect</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="Disconnected">Disconnected</string>
+    <string name="Send">Send</string>
+    <string name="Input_Message">Input Message</string>
+</resources>

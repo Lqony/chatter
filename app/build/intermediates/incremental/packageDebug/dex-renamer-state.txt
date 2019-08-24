@@ -1,0 +1,7 @@
+#Wed Sep 06 23:03:46 CEST 2017
+base.0=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ba16c66ec4feb019de99a9054b363262be97ac47
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2482fc2081d773df424c05e0d85a6334b647b59b\\classes.dex
+base.1=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2482fc2081d773df424c05e0d85a6334b647b59b
+file.0=C\:\\AndroidStudio\\Projects\\BenqMessenger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ba16c66ec4feb019de99a9054b363262be97ac47\\classes.dex
